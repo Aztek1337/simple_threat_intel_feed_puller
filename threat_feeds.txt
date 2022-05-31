@@ -1,0 +1,6 @@
+https://rules.emergingthreats.net/blockrules/compromised-ips.txt
+https://lists.blocklist.de/lists/all.txt
+https://feodotracker.abuse.ch/downloads/ipblocklist_recommended.txt
+https://feodotracker.abuse.ch/downloads/ipblocklist.txt
+https://cinsscore.com/list/ci-badguys.txt
+https://www.talosintelligence.com/documents/ip-blacklist
